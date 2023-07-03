@@ -5,5 +5,7 @@ Rencana content AksyalNizam
 * background abstrak
 * background geometrik
 * fundamental Illustrator
-~ premier pro
+  ^Angular
+  ^React
 ~ pemrograman
+  ^Laravel
