@@ -5,5 +5,8 @@ Rencana content AksyalNizam
 * background abstrak
 * background geometrik
 * fundamental Illustrator
+  ^Design
 ~ premier pro
+  ^green screen
 ~ pemrograman
+~ Adobe XD
