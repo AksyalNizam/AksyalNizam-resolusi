@@ -6,6 +6,7 @@ Rencana content AksyalNizam
 * background geometrik
 * fundamental Illustrator
   ^Design
+  ^React
 ~ premier pro
   ^green screen
 ~ pemrograman
